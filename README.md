@@ -94,7 +94,7 @@ uvicorn app.main:app --reload
 
 ## Why This Project?
 
-TThis project demonstrates the integration of state-of-the-art NLP, scalable databases, and modern deployment techniques. It showcases both machine learning modeling and production engineering skills, making it a strong portfolio piece for roles in data science, machine learning engineering, and backend development.
+This project demonstrates the integration of state-of-the-art NLP, scalable databases, and modern deployment techniques. It showcases both machine learning modeling and production engineering skills, making it a strong portfolio piece for roles in data science, machine learning engineering, and backend development.
 ---
 
 ## License
